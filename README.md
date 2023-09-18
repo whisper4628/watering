@@ -1,9 +1,10 @@
 ## ThinkPHP-Security-Scanner
 
 <div style="text-align: justify">
-    該目錄原先包含多個有關ThinkPHP 3.0 漏洞概念驗證以及漏洞利用的檔案，基於安全考量，這些檔案已被移除，並提供一個參考檔供他人研究。
+    該目錄原先包含多個有關ThinkPHP 3.0 漏洞概念驗證以及漏洞利用的檔案，基於安全考量，這些檔案已被移除，並提供一個參考檔供他人研究。</div>
     <br>
     <br>
+    <div style="text-align: justify">
     This folder originally contained PoCs and exploits about ThinkPHP vulnerabilities, but we decided to remove these files  for security considerations and leave one reference file.
 </div>
 <br>
